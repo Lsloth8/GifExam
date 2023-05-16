@@ -1,2 +1,2 @@
 # GifExam
-Una función para realizar la práctica deñ examen 
+Una función llamada edades para realizar la práctica del examen 
