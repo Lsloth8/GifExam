@@ -19,6 +19,9 @@ public class Edad {
 		}else if(edad>65){
 			System.out.println("es usted un anciano");
 		}
+		
+		
+		System.out.println("Gracias");
 
 	}
 
